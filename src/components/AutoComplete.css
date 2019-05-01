@@ -1,0 +1,11 @@
+li:hover {
+   background-color: lightgrey; 
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    line-height: 40px;
+}
